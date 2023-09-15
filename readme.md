@@ -5,14 +5,14 @@ The provided sample projects offer a concise yet effective demonstration of the 
 Cloud Mail 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/cloudmail](https://www.nsoftware.com/cloudmail)
 
 ## Reference Documentation
-[Java](https://cdn.nsoftware.com/help/EMH/java/)
-[Javascript](https://cdn.nsoftware.com/help/EMH/js/)
-[.NET](https://cdn.nsoftware.com/help/EMH/cs/)
-[Python](https://cdn.nsoftware.com/help/EMH/py/)
-[PHP](https://cdn.nsoftware.com/help/EMH/php/)
-[C++](https://cdn.nsoftware.com/help/EMH/cpp/)
-[macOS](https://cdn.nsoftware.com/help/EMH/mac/)
-[iOS](https://cdn.nsoftware.com/help/EMH/mac/)
+* [Java Edition](https://cdn.nsoftware.com/help/EMH/java/)
+* [Javascript Edition](https://cdn.nsoftware.com/help/EMH/js/)
+* [.NET Edition](https://cdn.nsoftware.com/help/EMH/cs/)
+* [Python Edition](https://cdn.nsoftware.com/help/EMH/py/)
+* [PHP Edition](https://cdn.nsoftware.com/help/EMH/php/)
+* [C++ Edition](https://cdn.nsoftware.com/help/EMH/cpp/)
+* [macOS Edition](https://cdn.nsoftware.com/help/EMH/mac/)
+* [iOS Edition](https://cdn.nsoftware.com/help/EMH/mac/)
 
 ## Sample Projects
 | Sample Project | Description |
