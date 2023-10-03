@@ -6,11 +6,12 @@ Cloud Mail 2022 libraries for the corresponding edition are required to run thes
 
 ## Reference Documentation
 * [Java Edition](https://cdn.nsoftware.com/help/EMH/java/)
-* [Javascript Edition](https://cdn.nsoftware.com/help/EMH/js/)
 * [.NET Edition](https://cdn.nsoftware.com/help/EMH/cs/)
+* [JavaScript Edition](https://cdn.nsoftware.com/help/EMH/js/)
 * [Python Edition](https://cdn.nsoftware.com/help/EMH/py/)
 * [PHP Edition](https://cdn.nsoftware.com/help/EMH/php/)
 * [C++ Edition](https://cdn.nsoftware.com/help/EMH/cpp/)
+* [Delphi Edition](https://cdn.nsoftware.com/help/EMH/dlp/)
 * [macOS Edition](https://cdn.nsoftware.com/help/EMH/mac/)
 * [iOS Edition](https://cdn.nsoftware.com/help/EMH/mac/)
 

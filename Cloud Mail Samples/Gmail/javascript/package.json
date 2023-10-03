@@ -8,7 +8,7 @@
   "main": "gmail.js",
   "dependencies": {
     "full-icu": "*",
-    "cloudmail": "^22.0.8658"
+    "cloudmail": "^22.0.8676"
   },
   "scripts": {
     "gmail": "node gmail.js"
