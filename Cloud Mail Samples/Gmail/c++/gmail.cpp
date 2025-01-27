@@ -135,7 +135,7 @@ int main(int argc, char * argv[])
 				char* theMessage;
 				int messageLength;
 
-				gmail.GetMessageA(theMessage, messageLength);
+				gmail.GetMessage(theMessage, messageLength);
 				printf("%s\n", theMessage);
 			}
 

@@ -108,7 +108,7 @@ int main(int argc, char * argv[])
 			{
 
 				// Get the folder ID
-				boolean found = false;
+				bool found = false;
 				office365.ListFolders(currFolder); // Lists the root child folders.
 
 				argument = strtok(NULL, " \t\n");
